@@ -6,3 +6,4 @@
  - #5:Delphine
  - #6:Roro
  - #7:Tsuna
+ - #8:Lily
