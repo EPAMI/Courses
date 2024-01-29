@@ -5,3 +5,4 @@
  - #4:Virginia
  - #5:Delphine
  - #6:Roro
+ - #7:Tsuna
